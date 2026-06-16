@@ -1,16 +1,39 @@
-## Hi there 👋
+# Facundo.dev – Portafolio v4
 
-<!--
-**FacundoCJ/FacundoCJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Versión actualizada del portafolio profesional de Facundo.
 
-Here are some ideas to get you started:
+## Cambios de esta versión
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Tarjetas de proyectos con logos/identidad visual.
+- Cada proyecto abre una página interna tipo caso de estudio.
+- Páginas individuales para:
+  - Kiosko Cafetería USIL
+  - H.U.T.C.H.
+  - Casa Smart Arduino
+  - Akinnova
+  - Siempre Nuevo
+  - Vannalatte
+  - Automatización Excel/VBA
+- Secciones por proyecto: problema, solución, rol, funciones, tecnologías, capturas y mejoras futuras.
+- Links reales de GitHub, LinkedIn, WhatsApp, correo y sitios publicados.
+
+## Cómo abrir
+
+1. Descomprime el ZIP.
+2. Abre `index.html` en el navegador.
+3. Haz clic en cualquier proyecto para abrir su página individual.
+
+## Próximas mejoras sugeridas
+
+- Añadir logos oficiales o definitivos para Kiosko, H.U.T.C.H., Casa Smart y Excel/VBA si se diseñan después.
+- Agregar links directos a repositorios específicos de cada proyecto.
+- Subir a GitHub Pages, Vercel o Netlify.
+
+
+## v6
+
+- Información profesional integrada desde el CV.
+- Se agregó descarga de CV en el portafolio.
+- Nueva sección de experiencia, educación y logros.
+- Galerías reordenadas por flujo de uso de cada proyecto.
+- Imágenes ampliables al hacer clic.
